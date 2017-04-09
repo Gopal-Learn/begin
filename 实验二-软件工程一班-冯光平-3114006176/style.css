@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.container{
+	text-align:center;
+}
+
+#myCanvas{
+	width: 600px;
+	display: inline;
+}
